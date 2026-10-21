@@ -3,7 +3,7 @@
   <img src="forest-girl-loop.gif" alt="Pixel-art girl walking through an endlessly looping forest with moving grass and bobbing flowers" width="100%" />
 </p>
 
-<h1 align="center">🌿 Bineta Saju 🌷</h1>
+<h1 align="center"> Bineta Saju </h1>
 <p align="center"><em>Full-stack developer · AI explorer · Growing ideas into useful products</em></p>
 <p align="center">🌱 Building with code · 🌼 Learning every day · 🌲 Growing through open source</p>
 
